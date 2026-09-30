@@ -1,6 +1,6 @@
 #Airtifical Intelligent: Intelligent Agents
 
-**Strathmore University, School of Computer Science and Engineering (SCSE)**
+**Strathmore University, School of Computing and Engineering Sciences (SCES)**
 
 ## Course Overview
 

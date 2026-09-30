@@ -1,6 +1,6 @@
 # Practical 3 — Intelligent Agents: Policy Iteration & Value Iteration
 
-**Strathmore University — School of Computer Science and Engineering (SCSE)**
+**Strathmore University — School of Computing and Engineering Sciences (SCES)**
 
 Implementation and analysis of the two classical dynamic-programming algorithms for solving
 Markov Decision Processes (MDPs) on a stochastic 6x6 gridworld.
